@@ -1,0 +1,8 @@
+# Local hatch-pet working artifacts
+nightleaf-pet-run/
+nightleaf-pet-package/
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+*.tmp
