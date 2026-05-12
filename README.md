@@ -1,6 +1,6 @@
 # Xiao Hei Codex Pet
 
-Xiao Hei is a custom Codex desktop pet: a small black forest-cat companion with pale green ears, cream eyes, dark outlines, and a tiny cyan mouth.
+Xiao Hei is a tiny black forest-cat Codex desktop pet inspired by Xiao Hei, the beloved character from the animated film The Legend of Hei. It has oversized cream eyes, pale green inner ears, dark brown outlines, a small cyan mouth, and a cute mysterious expression.
 
 ## Contents
 
