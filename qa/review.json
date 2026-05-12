@@ -18,90 +18,90 @@
           "file": "frames\\idle\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24796,
+          "nontransparent_pixels": 24213,
           "bbox": [
-            14,
+            17,
             5,
-            177,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 164
+          "chroma_adjacent_pixels": 170
         },
         {
           "index": 1,
           "file": "frames\\idle\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24796,
+          "nontransparent_pixels": 24596,
           "bbox": [
-            14,
+            15,
             5,
-            178,
+            177,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 180
+          "chroma_adjacent_pixels": 156
         },
         {
           "index": 2,
           "file": "frames\\idle\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24722,
+          "nontransparent_pixels": 24458,
           "bbox": [
-            14,
+            16,
             5,
-            177,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 162
+          "chroma_adjacent_pixels": 151
         },
         {
           "index": 3,
           "file": "frames\\idle\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24746,
+          "nontransparent_pixels": 24331,
           "bbox": [
-            14,
+            16,
             5,
-            177,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 117
+          "chroma_adjacent_pixels": 150
         },
         {
           "index": 4,
           "file": "frames\\idle\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25564,
+          "nontransparent_pixels": 24999,
           "bbox": [
-            12,
+            14,
             5,
-            179,
+            178,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 165
+          "chroma_adjacent_pixels": 171
         },
         {
           "index": 5,
           "file": "frames\\idle\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24931,
+          "nontransparent_pixels": 24678,
           "bbox": [
-            13,
+            15,
             5,
-            178,
+            176,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 156
+          "chroma_adjacent_pixels": 164
         }
       ]
     },
@@ -109,7 +109,7 @@
       "state": "running-right",
       "expected_frames": 8,
       "actual_frames": 8,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -240,7 +240,7 @@
       "state": "running-left",
       "expected_frames": 8,
       "actual_frames": 8,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -371,7 +371,7 @@
       "state": "waving",
       "expected_frames": 4,
       "actual_frames": 4,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -442,7 +442,7 @@
       "state": "jumping",
       "expected_frames": 5,
       "actual_frames": 5,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -528,7 +528,7 @@
       "state": "failed",
       "expected_frames": 8,
       "actual_frames": 8,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -659,7 +659,7 @@
       "state": "waiting",
       "expected_frames": 6,
       "actual_frames": 6,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -760,7 +760,7 @@
       "state": "running",
       "expected_frames": 6,
       "actual_frames": 6,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -861,7 +861,7 @@
       "state": "review",
       "expected_frames": 6,
       "actual_frames": 6,
-      "extraction_method": "components",
+      "extraction_method": null,
       "ok": true,
       "errors": [],
       "warnings": [],
@@ -960,4 +960,3 @@
     }
   ]
 }
-
